@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"C%2B%2B/Test%20post/","title":"Test post","text":"<p>This a test post in #programming </p> <pre><code>int main()\n{\n    return 0;\n}\n</code></pre>","tags":["programming"]}]}
